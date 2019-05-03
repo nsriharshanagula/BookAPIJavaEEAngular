@@ -1,1 +1,9 @@
 com\Harsha\spring\config\AppConfig.class
+com\Harsha\spring\controller\BookController.class
+com\Harsha\spring\config\MyWebAppInitializer.class
+com\Harsha\spring\dao\BookDAO.class
+com\Harsha\spring\service\BookServiceImpl.class
+com\Harsha\spring\dao\BookDAOImpl.class
+com\Harsha\spring\model\Book.class
+com\Harsha\spring\config\WebConfig.class
+com\Harsha\spring\service\BookService.class
